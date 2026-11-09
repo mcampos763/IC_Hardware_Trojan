@@ -1,0 +1,13 @@
+sbox1_variant/rtl_triple-des/common/crp.v
+sbox1_variant/rtl_triple-des/common/sbox1.v
+sbox1_variant/rtl_triple-des/common/sbox2.v
+sbox1_variant/rtl_triple-des/common/sbox3.v
+sbox1_variant/rtl_triple-des/common/sbox4.v
+sbox1_variant/rtl_triple-des/common/sbox5.v
+sbox1_variant/rtl_triple-des/common/sbox6.v
+sbox1_variant/rtl_triple-des/common/sbox7.v
+sbox1_variant/rtl_triple-des/common/sbox8.v
+sbox1_variant/rtl_triple-des/area_opt/key_sel.v
+sbox1_variant/rtl_triple-des/area_opt/key_sel3.v
+sbox1_variant/rtl_triple-des/area_opt/des.v
+sbox1_variant/rtl_triple-des/area_opt/des3.v

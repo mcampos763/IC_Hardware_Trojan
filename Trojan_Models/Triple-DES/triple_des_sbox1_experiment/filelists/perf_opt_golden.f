@@ -1,0 +1,12 @@
+golden_model/rtl_triple-des/common/crp.v
+golden_model/rtl_triple-des/common/sbox1.v
+golden_model/rtl_triple-des/common/sbox2.v
+golden_model/rtl_triple-des/common/sbox3.v
+golden_model/rtl_triple-des/common/sbox4.v
+golden_model/rtl_triple-des/common/sbox5.v
+golden_model/rtl_triple-des/common/sbox6.v
+golden_model/rtl_triple-des/common/sbox7.v
+golden_model/rtl_triple-des/common/sbox8.v
+golden_model/rtl_triple-des/perf_opt/key_sel.v
+golden_model/rtl_triple-des/perf_opt/des.v
+golden_model/rtl_triple-des/perf_opt/des3.v

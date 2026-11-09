@@ -1,0 +1,11 @@
+validation/sbox1_golden_ref.v
+validation/sbox1_mutant_ref.v
+validation/crp_golden_ref.v
+validation/crp_mutant_ref.v
+golden_model/rtl_triple-des/common/sbox2.v
+golden_model/rtl_triple-des/common/sbox3.v
+golden_model/rtl_triple-des/common/sbox4.v
+golden_model/rtl_triple-des/common/sbox5.v
+golden_model/rtl_triple-des/common/sbox6.v
+golden_model/rtl_triple-des/common/sbox7.v
+golden_model/rtl_triple-des/common/sbox8.v
